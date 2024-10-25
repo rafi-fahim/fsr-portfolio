@@ -33,6 +33,10 @@ import robot from "./robot.jpg"
 import game from "./game.jpeg"
 // // import fiverr from "./fiverr.png"
 
+import first_game_png from "./first_game.jpg"
+import chita_img from "./chita_img.jpg"
+import bdpho from "./bdpho.jpg"
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -51,6 +55,7 @@ export {
   github,
   menu,
   close,
+  bdpho,
   css,
   docker,
   figma,
@@ -70,5 +75,7 @@ export {
   tesla,
   carrent,
   jobit,
+  first_game_png,
+  chita_img,
   tripguide,
 };

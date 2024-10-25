@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a self-taught student and passionate programmer with a strong background in full-stack web development. Proficient in JavaScript, HTML, CSS, TypeScript, React.js, Firebase, Next.js, and Three.js, I thrive on creating innovative web applications. My interests also extend to robotics, where I enjoy designing intelligent systems that address real-world challenges. Driven by curiosity and a love for technology, I continuously seek to expand my skills and knowledge, believing in the transformative power of tech to improve lives.
+        I am a self-taught student and passionate programmer with a strong background in full-stack web development. Proficient in JavaScript, HTML, CSS, TypeScript, React.js, Firebase, Next.js, and Three.js, I thrive on creating innovative web applications. My interests also extend to robotics, where I enjoy designing intelligent systems that address real-world challenges. Driven by curiosity and a love for technology and electrical deviced, I feel the charges around me, I continuously seek to expand my skills and knowledge, believing in the transformative power of tech to improve lives.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
